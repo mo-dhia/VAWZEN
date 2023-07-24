@@ -1,6 +1,6 @@
 {
   "name": "vawzen",
-  "version": "1.0.0",
+  "version": "1.0.0.1",
   "description": "VAWZEN UI Kit is a comprehensive npm package for seamless web development. It offers extensive themes, reusable components like buttons and scroll functions, and optimized performance. Crafted with responsiveness and accessibility in mind, this UI Kit is the key to stunning and user-friendly interfaces. Join us today and level up your development journey!",
   "main": "index.js",
   "scripts": {
